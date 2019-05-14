@@ -1,0 +1,22 @@
+html {
+  text-align: center;
+  font-size: 2em;
+  font-family: sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+}
+
+body {
+  background-image: url(https://live.staticflickr.com/8707/28593466576_76d01cf2ab_b.jpg);
+  background-size: cover;
+}
