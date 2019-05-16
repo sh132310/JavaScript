@@ -1,0 +1,22 @@
+html {
+  font-size: 2em;
+  font-family: serif;
+  text-align: center;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/a6/c4/35/a6c43567eec16778de338186536c2ad7.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 3em;
+}
